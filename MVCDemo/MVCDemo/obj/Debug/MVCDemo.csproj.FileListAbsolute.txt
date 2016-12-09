@@ -35,3 +35,42 @@ D:\MVC Tutorials\MVCDemo\MVCDemo\bin\EntityFramework.dll
 D:\MVC Tutorials\MVCDemo\MVCDemo\bin\EntityFramework.SqlServer.dll
 D:\MVC Tutorials\MVCDemo\MVCDemo\bin\EntityFramework.xml
 D:\MVC Tutorials\MVCDemo\MVCDemo\bin\EntityFramework.SqlServer.xml
+D:\MVCDemo\MVCDemo\MVCDemo\bin\roslyn\csc.exe
+D:\MVCDemo\MVCDemo\MVCDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MVCDemo\MVCDemo\MVCDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MVCDemo\MVCDemo\MVCDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MVCDemo\MVCDemo\MVCDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MVCDemo\MVCDemo\MVCDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MVCDemo\MVCDemo\MVCDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MVCDemo\MVCDemo\MVCDemo\bin\roslyn\System.Collections.Immutable.dll
+D:\MVCDemo\MVCDemo\MVCDemo\bin\roslyn\System.Reflection.Metadata.dll
+D:\MVCDemo\MVCDemo\MVCDemo\bin\roslyn\vbc.exe
+D:\MVCDemo\MVCDemo\MVCDemo\bin\roslyn\VBCSCompiler.exe
+D:\MVCDemo\MVCDemo\MVCDemo\bin\roslyn\VBCSCompiler.exe.config
+D:\MVCDemo\MVCDemo\MVCDemo\bin\MVCDemo.dll.config
+D:\MVCDemo\MVCDemo\MVCDemo\bin\MVCDemo.dll
+D:\MVCDemo\MVCDemo\MVCDemo\bin\MVCDemo.pdb
+D:\MVCDemo\MVCDemo\MVCDemo\bin\EntityFramework.dll
+D:\MVCDemo\MVCDemo\MVCDemo\bin\EntityFramework.SqlServer.dll
+D:\MVCDemo\MVCDemo\MVCDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MVCDemo\MVCDemo\MVCDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\MVCDemo\MVCDemo\MVCDemo\bin\System.Web.Helpers.dll
+D:\MVCDemo\MVCDemo\MVCDemo\bin\System.Web.Mvc.dll
+D:\MVCDemo\MVCDemo\MVCDemo\bin\System.Web.Razor.dll
+D:\MVCDemo\MVCDemo\MVCDemo\bin\System.Web.Webpages.Deployment.dll
+D:\MVCDemo\MVCDemo\MVCDemo\bin\System.Web.Webpages.dll
+D:\MVCDemo\MVCDemo\MVCDemo\bin\System.Web.Webpages.Razor.dll
+D:\MVCDemo\MVCDemo\MVCDemo\bin\EntityFramework.xml
+D:\MVCDemo\MVCDemo\MVCDemo\bin\EntityFramework.SqlServer.xml
+D:\MVCDemo\MVCDemo\MVCDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MVCDemo\MVCDemo\MVCDemo\bin\System.Web.Razor.xml
+D:\MVCDemo\MVCDemo\MVCDemo\bin\System.Web.Webpages.xml
+D:\MVCDemo\MVCDemo\MVCDemo\bin\System.Web.Webpages.Deployment.xml
+D:\MVCDemo\MVCDemo\MVCDemo\bin\System.Web.Webpages.Razor.xml
+D:\MVCDemo\MVCDemo\MVCDemo\bin\System.Web.Helpers.xml
+D:\MVCDemo\MVCDemo\MVCDemo\bin\System.Web.Mvc.xml
+D:\MVCDemo\MVCDemo\MVCDemo\obj\Debug\MVCDemo.csprojResolveAssemblyReference.cache
+D:\MVCDemo\MVCDemo\MVCDemo\obj\Debug\MVCDemo.dll
+D:\MVCDemo\MVCDemo\MVCDemo\obj\Debug\MVCDemo.pdb
+D:\MVCDemo\MVCDemo\MVCDemo\bin\BusinessLayer.dll
+D:\MVCDemo\MVCDemo\MVCDemo\bin\BusinessLayer.pdb
